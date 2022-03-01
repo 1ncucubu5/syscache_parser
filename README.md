@@ -1,5 +1,6 @@
 # syscache_parser
 # Парсер syscache и проверка хэшей по AV\TI
+Док с неоф. нотесами: https://docs.google.com/document/d/1-0qbQ90QjPZ4jeLCrqQH87Hjfb1AMDEDqPP-41XuZXs/edit
 
 # Описание
 
