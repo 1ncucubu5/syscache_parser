@@ -17,3 +17,10 @@
 # Критерии оценки
 
 Корректность работы и продуманность работы, удобство и простота использования, возможность доработки.
+
+# Setup
+pip3 install -r packages
+
+# Usage
+python3 SyscacheParser.py --path Syscache.hve
+
